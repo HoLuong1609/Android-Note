@@ -18,6 +18,7 @@ Android Helper
 	http://www.jsonschema2pojo.org/
 	https://romannurik.github.io/AndroidAssetStudio/nine-patches.html
 	http://rogerdudler.github.io/git-guide/index.vi.html
+	https://github.com/MEiDIK/SlimAdapter
 
 	
 Library
