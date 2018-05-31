@@ -25,3 +25,5 @@ Library
 	
 	com.github.esafirm.android-image-picker
 	https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection/
+	AdmobAdapter
+	https://github.com/clockbyte/admobadapter
