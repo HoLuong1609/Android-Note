@@ -1,5 +1,8 @@
 Blog
 
+	https://kipalog.com/
+	https://android-arsenal.com
+
 	https://academy.realm.io/
 	https://blog.mindorks.com/tagged/android
 	https://androidcoban.com/20-open-source-android-tuyet-voi-giup-ban-code-tot-hon-p1.html
