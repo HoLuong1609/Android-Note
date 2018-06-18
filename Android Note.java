@@ -30,3 +30,5 @@ Library
 	https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection/
 	AdmobAdapter
 	https://github.com/clockbyte/admobadapter
+	
+	com.google.android.gms.matchstick
