@@ -1,5 +1,8 @@
 Blog
 
+	https://kipalog.com/
+	https://android-arsenal.com
+
 	https://academy.realm.io/
 	https://blog.mindorks.com/tagged/android
 	https://androidcoban.com/20-open-source-android-tuyet-voi-giup-ban-code-tot-hon-p1.html
@@ -18,9 +21,15 @@ Android Helper
 	http://www.jsonschema2pojo.org/
 	https://romannurik.github.io/AndroidAssetStudio/nine-patches.html
 	http://rogerdudler.github.io/git-guide/index.vi.html
+	https://github.com/MEiDIK/SlimAdapter
 
 	
 Library
 	
 	com.github.esafirm.android-image-picker
 	https://blog.autsoft.hu/the-android-and-ios-alternative-library-collection/
+	AdmobAdapter
+	https://github.com/clockbyte/admobadapter
+	
+	com.google.android.gms.matchstick
+	https://github.com/jaredrummler/MaterialSpinner
