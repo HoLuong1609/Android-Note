@@ -69,3 +69,29 @@ Multi touch:
             return true
         }
     }
+	
+	
+	half boder with different color
+	<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="270"
+                android:endColor="@color/palegreen"
+                android:startColor="@color/mayablue"
+                android:type="linear" />
+            <corners android:radius="@dimen/common_size_5dp" />
+        </shape>
+    </item>
+    <item
+        android:bottom="@dimen/border"
+        android:left="@dimen/border"
+        android:right="@dimen/border"
+        android:top="@dimen/border">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <corners android:radius="@dimen/common_size_5dp" />
+        </shape>
+    </item>
+</layer-list>
