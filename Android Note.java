@@ -32,3 +32,7 @@ Library
 	https://github.com/clockbyte/admobadapter
 	
 	com.google.android.gms.matchstick
+	
+	luonght@yopmail.com
+	
+	application info + relogin request builder
