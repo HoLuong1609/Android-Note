@@ -1,0 +1,22 @@
+Thank you for contacting the Google Play team. We have received the following information in the Permissions Declaration Form you submitted:
+
+{#1: In one sentence, please describe the core functionality of your app.
+The core functionality of my app is view contacts, call history, make calls (Contacts App)
+
+#2: What is the core functionality in your app requiring the Call Log and / or SMS permissions?
+N/A
+
+#3: Do any of the following disallowed use cases apply to your app’s core functionality request for Call Log or SMS permissions?
+N/A
+
+#4: Do any of the following other use cases apply to your app’s core functionality request for Call Log or SMS permissions?
+N/A
+
+#5: Is your app’s use of Call Log or SMS permissions to provide functionality required by law or regulation?
+Yes
+
+If you answered yes to the above (law or regulatory requirements), please provide details:
+- We do not share any user contacts and call history (only visible to users on the app)
+
+#6: Other
+Application uses permissions: READ_CALL_LOG only to get call history for the app user}
