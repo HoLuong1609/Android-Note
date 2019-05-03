@@ -1,0 +1,23 @@
+cd C:\Users\admin\AppData\Local\Android\Sdk\platform-tools
+adb install -r D:\Android\Projects\NTQ\Oasis\oasis_android\app\build\outputs\apk\staging\debug\app-staging-debug.apk
+adb install -r D:\Android\Projects\NTQ\eazy_kotlin\app\build\outputs\apk\staging\debug\app-staging-debug.apk
+adb tcpip 5555
+
+
+git config --global user.name "LuongHH"
+
+
+
+https://stackoverflow.com/questions/25862170/application-throws-java-lang-stackoverflowerror-exception-in-activity
+
+Moa: 	hiuhi@nn.nn 123456				nee@nn.nn 111111														local: lmoa@nn.nn 111111
+Tsubaki	tunu@1.com, ktralogin@vv.vv - 123456 nu2011@nn.nn 123456
+eazy nora kotlin : hima@nn.nn 111111	tt@kk.kk 111111, nu123@kk.kk 123456						local: namtrang@mm.mm 111111
+eazy nora android : nam123@kk.kk 123456 ty@mm.mm 111111 t@kk.kk
+
+Ochaberi: hs@nn.nn 111111
+yu@nn.nn 111111
+
+
+nu3@nn.nn	111111 namui@nn.nn 111111
+akasa@nn.nn	1111111
